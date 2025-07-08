@@ -1,0 +1,12 @@
+@use "../settings";
+@use "../variable" as *;
+
+.search-bar-container {
+  form {
+    .search-bar {
+      font-size: $font-size-md;
+      min-width: 10rem;
+      max-width: 40rem;
+    }
+  }
+}
