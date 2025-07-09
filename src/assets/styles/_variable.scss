@@ -1,7 +1,7 @@
 // colors
 $primary-color: hsl(14, 100%, 63%);
 $secondary-color: hsl(32, 100%, 60%);
-$accent-color: hsl(195, 82%, 64%);
+$accent-color: hsl(118, 57%, 60%);
 $success-color: hsl(122, 39%, 49%);
 $error-color: hsl(4, 90%, 58%);
 $warning-color: hsl(36, 100%, 50%);
@@ -34,7 +34,9 @@ $border-radius-lg: 16px;
 
 $box-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
 $box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-$box-shadow-lg: 0 4px 16px rgba(0, 0, 0, 0.12);
+$box-shadow-lg: 0 4px 16px rgba(0, 0, 0, 0.226);
 
 $transition-fast: 0.15s ease-in-out;
 $transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+$hover-lift: translateY(010%);
